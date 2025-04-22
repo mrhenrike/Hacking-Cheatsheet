@@ -1,0 +1,7 @@
+proxy_port=
+emulator_screen_size=
+sdk_path=/Users/ricardolongatto/Library/Android/sdk
+proxy_host=
+devices_path=
+web_service_http_port=8888
+web_service_https_port=9888

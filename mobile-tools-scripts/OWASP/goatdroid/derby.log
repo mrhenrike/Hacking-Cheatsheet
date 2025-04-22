@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Sun Aug 26 23:10:04 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0165-7925-2de6-000005d2d758 
+on database directory /Users/ricardolongatto/Downloads/desec-tools/apps/goatdroid/dbs/herdfinancial  with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/Users/ricardolongatto/Downloads/desec-tools/apps/goatdroid/goatdroid-0.9.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/Users/ricardolongatto/Downloads/desec-tools/apps/goatdroid
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Aug 26 23:10:05 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a02ac013-0165-7925-2de6-000005d2d758 
+on database directory /Users/ricardolongatto/Downloads/desec-tools/apps/goatdroid/dbs/fourgoats  with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/Users/ricardolongatto/Downloads/desec-tools/apps/goatdroid/goatdroid-0.9.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=/Users/ricardolongatto/Downloads/desec-tools/apps/goatdroid
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

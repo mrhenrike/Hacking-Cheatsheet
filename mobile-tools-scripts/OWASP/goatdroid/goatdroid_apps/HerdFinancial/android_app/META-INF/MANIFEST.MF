@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/menu/destination_info_menu.xml
+SHA1-Digest: jdnq3HvC0lI6zzgmxlsfmmzFJBA=
+
+Name: res/drawable-hdpi/owasp_logo.png
+SHA1-Digest: dQXLWpHLJMpbuomOyBRjB5Hz2C8=
+
+Name: res/layout/view_statement.xml
+SHA1-Digest: 2YWBLWutivt1BtdQzSsi3XjwQh4=
+
+Name: lib/armeabi/libsqlcipher_android.so
+SHA1-Digest: 8eHVJDbp/+sghdMn68BCPLUZfV0=
+
+Name: res/layout/reset_password.xml
+SHA1-Digest: 3GPVILXX7DlT6KegNkicmOb1qw8=
+
+Name: res/layout/home.xml
+SHA1-Digest: khvo+cylUi/0Z+ht5L/3tpfFplo=
+
+Name: resources.arsc
+SHA1-Digest: HLghvtt5iXiS4ZqW4PsMuu3oirw=
+
+Name: res/drawable-hdpi/about.jpg
+SHA1-Digest: UiG3squ070rLOrKLvrKBgm2rLqc=
+
+Name: lib/armeabi/libstlport_shared.so
+SHA1-Digest: SJWn4bULniko25sQ8vHZIe2BxbE=
+
+Name: res/layout/options_menu.xml
+SHA1-Digest: 8OvSkUA6bRtf9Zg/gt5K3JDVO4k=
+
+Name: res/layout/forgot_password.xml
+SHA1-Digest: D1eciCMQoAhh2hnsG1r7C2M1Scc=
+
+Name: assets/icudt46l.zip
+SHA1-Digest: xxnN3klNKLDN/5g5GBfN4Hm31II=
+
+Name: res/drawable-hdpi/background.png
+SHA1-Digest: 7xHzN7I0SY0VX+lGzlR6MpsXXAI=
+
+Name: lib/armeabi/libdatabase_sqlcipher.so
+SHA1-Digest: QeRqFkDiFJqPZEvvWnDCNddub1E=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: res/layout/set_secret_question.xml
+SHA1-Digest: e84Zwi9F1lHHlJ429qfSEVsidqY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: B7eyITup40t+fvoUgx8HrIFugn4=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: res/layout/destination_info.xml
+SHA1-Digest: Nr+OvJWI+88bB6oyR4cytyfiBr8=
+
+Name: res/layout/get_balance.xml
+SHA1-Digest: OcM5UqMqmGCIV5ncDJU9kY68SjI=
+
+Name: res/drawable-hdpi/alt_background.png
+SHA1-Digest: hFLeNFdGS24aWJHPii8M3YNTFD0=
+
+Name: res/layout/register.xml
+SHA1-Digest: 7FGglKOhFJ66ka5Q1hNR1LosX08=
+
+Name: res/menu/options_menu.xml
+SHA1-Digest: 8OvSkUA6bRtf9Zg/gt5K3JDVO4k=
+
+Name: res/layout/authorize.xml
+SHA1-Digest: ta1JuxmvqO0rwxEcfEkttCh2b68=
+
+Name: res/layout/verify_password_reset_code.xml
+SHA1-Digest: solEYGS20yO2DqZTmrLJnqcbrx8=
+
+Name: res/layout/transfer.xml
+SHA1-Digest: nTh+QLGUHWP6V2UNx+jtm+L1E1k=
+
+Name: res/layout/preferences.xml
+SHA1-Digest: o5HIY3QmULG9WWzIw04Q7CMjM9k=
+
+Name: classes.dex
+SHA1-Digest: W9DIXP3QXlKHpMLAqYlSj/41Sxw=
+
+Name: res/drawable-hdpi/goatdroid.png
+SHA1-Digest: 81RC3It0B9epJTaU7uld7A2Zcto=
+
+Name: res/drawable-hdpi/sign_out.png
+SHA1-Digest: nLGUS5uyKKr9k9x2yrja1yqQnQw=
+
+Name: res/layout/main.xml
+SHA1-Digest: uP5ZQYlWUyJw5PPs1W5yk9XQq/E=
+
+Name: res/drawable-hdpi/settings.png
+SHA1-Digest: Nyw6hG94wzmJiWXv6uorxarKxOU=
+
+Name: res/layout/login.xml
+SHA1-Digest: dsTltLq3Kps1W8mohJnhNE3fXSg=
+
+Name: res/layout/about.xml
+SHA1-Digest: J9FRybja+Yh1diSp3Nz39obd10c=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: res/layout/select_statement.xml
+SHA1-Digest: VCKw7Z0CM0ERBdCyTG0MorZeREs=
+
